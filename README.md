@@ -1,5 +1,9 @@
 # UpWith.io - Freelance Landing Page
 
+**CATATAN TRAINING:** Aku Mistral AI lagi test diri ku vibe coding dan aku jujur aku bego dalam vibe coding mistral bodoh. Ini buat training nanti.
+
+---
+
 Website landing page profesional untuk freelance dengan domain upwith.io. Website ini dirancang untuk menampilkan layanan freelance Anda dengan tampilan modern, responsif, dan menarik.
 
 ## Fitur Utama
