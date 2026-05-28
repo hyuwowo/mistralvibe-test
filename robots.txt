@@ -1,0 +1,19 @@
+# UpWith.io - Freelance Landing Page
+# Robots.txt Configuration
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://upwith.io/sitemap.xml
+
+# Crawl delay (optional)
+# Crawl-delay: 5
+
+# Disallow specific pages (if needed)
+# Disallow: /private/
+# Disallow: /admin/
+# Disallow: /login/
+
+# Allow all robots to access all content
+# This is the default behavior
